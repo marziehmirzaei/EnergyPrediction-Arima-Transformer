@@ -1,7 +1,4 @@
 # EnergyPrediction-Arima-Transformer
-# Energy Consumption Prediction Project
-
-# Energy Consumption Prediction Project
 
 ## 1) Energy Consumption.xlsx:
 
